@@ -1,0 +1,685 @@
+[
+    {
+        "name": "Mario",
+        "id": 1,
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. 64",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/4/44/Mario_SSBU.png/600px-Mario_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/9/9e/MarioHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Mario_(SSBU)"
+    },
+    {
+        "name": "Donkey Kong",
+        "id": 2,
+        "series": "Donkey Kong",
+        "firstGame": "Super Smash Bros. 64",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/c/c9/Donkey_Kong_SSBU.png/600px-Donkey_Kong_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/2/21/DonkeyKongHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Donkey_Kong_(SSBU)"
+    },
+    {
+        "name": "Link",
+        "id": 3,
+        "series": "The Legend of Zelda",
+        "firstGame": "Super Smash Bros. 64",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/8/84/Link_SSBU.png/600px-Link_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/2/2b/LinkHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Link_(SSBU)"
+    },
+    {
+        "name": "Samus",
+        "id": 4,
+        "series": "Metroid",
+        "firstGame": "Super Smash Bros. 64",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/0/03/Samus_SSBU.png/600px-Samus_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/d/d0/SamusHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Samus_(SSBU)"
+    },
+    {
+        "name": "Dark Samus",
+        "id": 5,
+        "series": "Metroid",
+        "firstGame": "Super Smash Bros. Ultimate",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/a/a6/Dark_Samus_SSBU.png/600px-Dark_Samus_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/2/24/DarkSamusHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Dark_Samus_(SSBU)"
+    },
+    {
+        "name": "Yoshi",
+        "id": 6,
+        "series": "Yoshi",
+        "firstGame": "Super Smash Bros. 64",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/8/8d/Yoshi_SSBU.png/600px-Yoshi_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/9/93/YoshiHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Yoshi_(SSBU)"
+    },
+    {
+        "name": "Kirby",
+        "id": 7,
+        "series": "Kirby",
+        "firstGame": "Super Smash Bros. 64",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/0/07/Kirby_SSBU.png/600px-Kirby_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/1/15/KirbyHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Kirby_(SSBU)"
+    },
+    {
+        "name": "Fox",
+        "id": 8,
+        "series": "Star Fox",
+        "firstGame": "Super Smash Bros. 64",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/2/2f/Fox_SSBU.png/600px-Fox_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/c/c9/FoxHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Fox_(SSBU)"
+    },
+    {
+        "name": "Pikachu",
+        "id": 9,
+        "series": "Pokemon",
+        "firstGame": "Super Smash Bros. 64",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/9/93/Pikachu_SSBU.png/600px-Pikachu_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/5/52/PikachuHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Pikachu_(SSBU)"
+    },
+    {
+        "name": "Luigi",
+        "id": 10,
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. 64",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/b/bb/Luigi_SSBU.png/547px-Luigi_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/9/9d/LuigiHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Luigi_(SSBU)"
+    },
+    {
+        "name": "Ness",
+        "id": 11,
+        "series": "EarthBound",
+        "firstGame": "Super Smash Bros. 64",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/8/82/Ness_SSBU.png/600px-Ness_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/d/d5/NessHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Ness_(SSBU)"
+    },
+    {
+        "name": "Captain Falcon",
+        "id": 12,
+        "series": "F-Zero",
+        "firstGame": "Super Smash Bros. 64",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/d/da/Captain_Falcon_SSBU.png/600px-Captain_Falcon_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/6/6b/CaptainFalconHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Captain_Falcon_(SSBU)"
+    },
+    {
+        "name": "Jigglypuff",
+        "id": 13,
+        "series": "Pokemon",
+        "firstGame": "Super Smash Bros. 64",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/6/6a/Jigglypuff_SSBU.png/600px-Jigglypuff_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/9/90/JigglypuffHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Jigglypuff_(SSBU)"
+    },
+    {
+        "name": "Peach",
+        "id": 14,
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/7/74/Peach_SSBU.png/531px-Peach_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/1/14/PeachHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Peach_(SSBU)"
+    },
+    {
+        "name": "Daisy",
+        "id": 15,
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. Ultimate",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/2/21/Daisy_SSBU.png/600px-Daisy_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/2/2d/DaisyHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Daisy_(SSBU)"
+    },
+    {
+        "name": "Bowser",
+        "id": 16,
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/4/49/Bowser_SSBU.png/600px-Bowser_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/0/0b/BowserHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Bowser_(SSBU)"
+    },
+    {
+        "name": "Ice Climbers",
+        "id": 17,
+        "series": "Ice Climber",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/1/12/Ice_Climbers_SSBU.png/600px-Ice_Climbers_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/0/0c/IceClimbersHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Ice_Climbers_(SSBU)"
+    },
+    {
+        "name": "Sheik",
+        "id": 18,
+        "series": "The Legend of Zelda",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/0/00/Sheik_SSBU.png/600px-Sheik_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/1/1e/SheikHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Sheik_(SSBU)"
+    },
+    {
+        "name": "Zelda",
+        "id": 19,
+        "series": "The Legend of Zelda",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/c/c8/Zelda_SSBU.png/600px-Zelda_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/c/c8/ZeldaHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Zelda_(SSBU)"
+    },
+    {
+        "name": "Dr. Mario",
+        "id": 20,
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/3/3f/Dr._Mario_SSBU.png/600px-Dr._Mario_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/c/c8/DrMarioHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Dr._Mario_(SSBU)"
+    },
+    {
+        "name": "Pichu",
+        "id": 21,
+        "series": "Pokemon",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/c/c1/Pichu_SSBU.png/600px-Pichu_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/5/50/PichuHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Pichu_(SSBU)"
+    },
+    {
+        "name": "Falco",
+        "id": 22,
+        "series": "Star Fox",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/8/80/Falco_SSBU.png/600px-Falco_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/6/6e/FalcoHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Falco_(SSBU)"
+    },
+    {
+        "name": "Marth",
+        "id": 23,
+        "series": "Fire Emblem",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/e/e9/Marth_SSBU.png/600px-Marth_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/a/ae/MarthHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Marth_(SSBU)"
+    },
+    {
+        "name": "Lucina",
+        "id": 24,
+        "series": "Fire Emblem",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/d/dc/Lucina_SSBU.png/600px-Lucina_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/d/d8/LucinaHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Lucina_(SSBU)"
+    },
+    {
+        "name": "Young Link",
+        "id": 25,
+        "series": "The Legend of Zelda",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/8/8a/Young_Link_SSBU.png/900px-Young_Link_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/c/c0/YoungLinkHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Young_Link_(SSBU)"
+    },
+    {
+        "name": "Ganondorf",
+        "id": 26,
+        "series": "The Legend of Zelda",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/9/91/Ganondorf_SSBU.png/595px-Ganondorf_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/b/b6/GanondorfHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Ganondorf_(SSBU)"
+    },
+    {
+        "name": "Mewtwo",
+        "id": 27,
+        "series": "Pokemon",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/d/de/Mewtwo_SSBU.png/594px-Mewtwo_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/7/7e/MewtwoHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Mewtwo_(SSBU)"
+    },
+    {
+        "name": "Roy",
+        "id": 28,
+        "series": "Fire Emblem",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/9/9d/Roy_SSBU.png/600px-Roy_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/2/22/RoyHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Roy_(SSBU)"
+    },
+    {
+        "name": "Chrom",
+        "id": 29,
+        "series": "Fire Emblem",
+        "firstGame": "Super Smash Bros. Ultimate",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/5/57/Chrom_SSBU.png/510px-Chrom_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/7/70/ChromHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Chrom_(SSBU)"
+    },
+    {
+        "name": "Mr. Game & Watch",
+        "id": 30,
+        "series": "Game & Watch",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/c/cb/Mr._Game_%26_Watch_SSBU.png/600px-Mr._Game_%26_Watch_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/1/15/MrGame%26WatchHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Mr._Game_%26_Watch_(SSBU)"
+    },
+    {
+        "name": "Meta Knight",
+        "id": 31,
+        "series": "Kirby",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/0/00/Meta_Knight_SSBU.png/600px-Meta_Knight_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/3/3d/MetaKnightHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Meta_Knight_(SSBU)"
+    },
+    {
+        "name": "Pit",
+        "id": 32,
+        "series": "Kid Icarus",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/3/38/Pit_SSBU.png/600px-Pit_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/d/d7/PitHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Pit_(SSBU)"
+    },
+    {
+        "name": "Dark Pit",
+        "id": 33,
+        "series": "Kid Icarus",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/0/09/Dark_Pit_SSBU.png/568px-Dark_Pit_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/8/8b/DarkPitHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Dark_Pit_(SSBU)"
+    },
+    {
+        "name": "Zero Suit Samus",
+        "id": 34,
+        "series": "Metroid",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/f/f0/Zero_Suit_Samus_SSBU.png/600px-Zero_Suit_Samus_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/5/5a/ZeroSuitSamusHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Zero_Suit_Samus_(SSBU)"
+    },
+    {
+        "name": "Wario",
+        "id": 35,
+        "series": "Wario",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/0/04/Wario_SSBU.png/600px-Wario_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/7/7f/WarioHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Wario_(SSBU)"
+    },
+    {
+        "name": "Snake",
+        "id": 36,
+        "series": "Metal Gear",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/0/02/Snake_SSBU.png/492px-Snake_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/9/9f/SnakeHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Snake_(SSBU)"
+    },
+    {
+        "name": "Ike",
+        "id": 37,
+        "series": "Fire Emblem",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/8/86/Ike_SSBU.png/600px-Ike_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/2/25/IkeHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Ike_(SSBU)"
+    },
+    {
+        "name": "Pokemon Trainer",
+        "id": 38,
+        "series": "Pokemon",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/0/0f/Pok%C3%A9mon_Trainer_SSBU.png/800px-Pok%C3%A9mon_Trainer_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/2/2c/Pok%C3%A9monTrainerHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Pok%C3%A9mon_Trainer_(SSBU)"
+    },
+    {
+        "name": "Diddy Kong",
+        "id": 39,
+        "series": "Donkey Kong",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/a/a7/Diddy_Kong_SSBU.png/579px-Diddy_Kong_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/5/5d/DiddyKongHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Diddy_Kong_(SSBU)"
+    },
+    {
+        "name": "Lucas",
+        "id": 40,
+        "series": "EarthBound",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/8/81/Lucas_SSBU.png/600px-Lucas_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/3/31/LucasHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Lucas_(SSBU)"
+    },
+    {
+        "name": "Sonic",
+        "id": 41,
+        "series": "Sonic",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/b/ba/Sonic_SSBU.png/609px-Sonic_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/b/b7/SonicHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Sonic_(SSBU)"
+    },
+    {
+        "name": "King Dedede",
+        "id": 42,
+        "series": "Kirby",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/f/f5/King_Dedede_SSBU.png/600px-King_Dedede_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/f/fe/KingDededeHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/King_Dedede_(SSBU)"
+    },
+    {
+        "name": "Olimar",
+        "id": 43,
+        "series": "Pikmin",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/b/b3/Olimar_SSBU.png/600px-Olimar_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/9/97/OlimarHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Olimar_(SSBU)"
+    },
+    {
+        "name": "Lucario",
+        "id": 44,
+        "series": "Pokemon",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/0/08/Lucario_SSBU.png/600px-Lucario_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/2/20/LucarioHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Lucario_(SSBU)"
+    },
+    {
+        "name": "R.O.B.",
+        "id": 45,
+        "series": "R.O.B.",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/3/38/R.O.B._%28JPN%29_SSBU.png/600px-R.O.B._%28JPN%29_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/b/be/ROBHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/R.O.B._(SSBU)"
+    },
+    {
+        "name": "Toon Link",
+        "id": 46,
+        "series": "The Legend of Zelda",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/5/56/Toon_Link_SSBU.png/569px-Toon_Link_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/b/bf/ToonLinkHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Toon_Link_(SSBU)"
+    },
+    {
+        "name": "Wolf",
+        "id": 47,
+        "series": "Star Fox",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/8/8a/Wolf_SSBU.png/647px-Wolf_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/0/06/WolfHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Wolf_(SSBU)"
+    },
+    {
+        "name": "Villager",
+        "id": 48,
+        "series": "Animal Crossing",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/a/ac/Villager_SSBU.png/600px-Villager_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/f/f9/VillagerHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Villager_(SSBU)"
+    },
+    {
+        "name": "Mega Man",
+        "id": 49,
+        "series": "Mega Man",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/4/46/Mega_Man_SSBU.png/600px-Mega_Man_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/2/26/MegaManHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Mega_Man_(SSBU)"
+    },
+    {
+        "name": "Wii Fit TRAINER",
+        "id": 50,
+        "series": "Wii Fit",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/f/ff/Wii_Fit_Trainer_SSBU.png/600px-Wii_Fit_Trainer_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/f/fc/WiiFitTrainerHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Wii_Fit_Trainer_(SSBU)"
+    },
+    {
+        "name": "Rosalina & Luma",
+        "id": 51,
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/1/16/Rosalina_%26_Luma_SSBU.png/600px-Rosalina_%26_Luma_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/6/63/RosalinaHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Rosalina_%26_Luma_(SSBU)"
+    },
+    {
+        "name": "Little Mac",
+        "id": 52,
+        "series": "Punch-Out!!",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/5/53/Little_Mac_SSBU.png/600px-Little_Mac_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/8/87/LittleMacHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Little_Mac_(SSBU)"
+    },
+    {
+        "name": "Greninja",
+        "id": 53,
+        "series": "Pokemon",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/d/da/Greninja_SSBU.png/600px-Greninja_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/7/79/GreninjaHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Greninja_(SSBU)"
+    },
+    {
+        "name": "Mii Fighter Brawler",
+        "id": 54,
+        "smashCharacter": "Mii Fighter Brawler",
+        "series": "Miiverse",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/e/e4/Mii_Brawler_SSBU.png/600px-Mii_Brawler_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/d/d8/MiiBrawlerHeadSSBU.png",
+        "wikiURL": "https://www.ssbwiki.com/Mii_Brawler_(SSBU)"
+    },
+    {
+        "name": "Mii Fighter Swordfighter",
+        "id": 55,
+        "smashCharacter": "Mii Fighter Swordfighter",
+        "series": "Miiverse",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/f/fa/Mii_Swordfighter_SSBU.png/600px-Mii_Swordfighter_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/e/ef/MiiSwordfighterHeadSSBU.png",
+        "wikiURL": "https://www.ssbwiki.com/Mii_Swordfighter_(SSBU)"
+    },
+    {
+        "name": "Mii Fighter Gunner",
+        "id": 56,
+        "smashCharacter": "Mii Fighter Gunner",
+        "series": "Miiverse",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/e/e5/Mii_Gunner_SSBU.png/600px-Mii_Gunner_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/3/3d/MiiGunnerHeadSSBU.png",
+        "wikiURL": "https://www.ssbwiki.com/Mii_Gunner_(SSBU)"
+    },
+    {
+        "name": "Palutena",
+        "id": 57,
+        "series": "Kid Icarus",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/6/6b/Palutena_SSBU.png/568px-Palutena_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/d/d7/PalutenaHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Palutena_(SSBU)"
+    },
+    {
+        "name": "Pac-Man",
+        "id": 58,
+        "smashCharacter": "Pac-Man",
+        "series": "Pac-Man",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/0/03/Pac-Man_SSBU.png/600px-Pac-Man_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/3/3d/Pac-ManHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Pac-Man_(SSBU)"
+    },
+    {
+        "name": "Robin",
+        "id": 59,
+         "series": "Fire Emblem",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/8/82/Robin_SSBU.png/600px-Robin_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/4/43/RobinHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Robin_(SSBU)"
+    },
+    {
+        "name": "Shulk",
+        "id": 60,
+        "series": "Xenoblade",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/0/0f/Shulk_SSBU.png/600px-Shulk_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/b/bf/ShulkHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Shulk_(SSBU)"
+    },
+    {
+        "name": "Bowser Jr.",
+        "id": 61,
+        "smashCharacter": "Bowser Jr.",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/2/2b/Bowser_Jr._SSBU.png/600px-Bowser_Jr._SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/3/3e/BowserJrHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Bowser_Jr._(SSBU)"
+    },
+    {
+        "name": "Duck Hunt",
+        "id": 62,
+        "smashCharacter": "Duck Hunt",
+        "series": "Duck Hunt",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/d/d8/Duck_Hunt_SSBU.png/600px-Duck_Hunt_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/3/38/DuckHuntHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Duck_Hunt_(SSBU)"
+    },
+    {
+        "name": "Ryu",
+        "id": 63,
+        "series": "Street Fighter",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/6/61/Ryu_SSBU.png/600px-Ryu_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/2/20/RyuHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Ryu_(SSBU)"
+    },
+    {
+        "name": "Ken",
+        "id": 64,
+        "series": "Street Fighter",
+        "firstGame": "Super Smash Bros. Ultimate",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/f/f6/Ken_SSBU.png/600px-Ken_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/e/ef/KenHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Ken_(SSBU)"
+    },
+    {
+        "name": "Cloud",
+        "id": 65,
+        "series": "Final Fantasy",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/b/b3/Cloud_SSBU.png/600px-Cloud_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/c/cb/CloudHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Cloud_(SSBU)"
+    },
+    {
+        "name": "Corrin",
+        "id": 66,
+        "series": "Fire Emblem",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/c/c4/Corrin_SSBU.png/600px-Corrin_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/6/6a/CorrinHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Corrin_(SSBU)"
+    },
+    {
+        "name": "Bayonetta",
+        "id": 67,
+        "series": "Bayonetta",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/7/7c/Bayonetta_SSBU.png/611px-Bayonetta_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/2/27/BayonettaHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Bayonetta_(SSBU)"
+    },
+    {
+        "name": "Inkling",
+        "id": 68,
+        "series": "Splatoon",
+        "firstGame": "Super Smash Bros. Ultimate",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/2/2e/Inkling_SSBU.png/603px-Inkling_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/0/04/InklingHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Inkling_(SSBU)"
+    },
+    {
+        "name": "Ridley",
+        "id": 69,
+        "series": "Metroid",
+        "firstGame": "Super Smash Bros. Ultimate",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/2/27/Ridley_SSBU.png/600px-Ridley_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/7/7c/RidleyHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Ridley_(SSBU)"
+    },
+    {
+        "name": "Simon",
+        "id": 70,
+        "series": "Castlevania",
+        "firstGame": "Super Smash Bros. Ultimate",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/9/95/Simon_SSBU.png/600px-Simon_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/5/52/SimonHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Simon_(SSBU)"
+    },
+    {
+        "name": "Richter",
+        "id": 71,
+        "series": "Castlevania",
+        "firstGame": "Super Smash Bros. Ultimate",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/c/c2/Richter_SSBU.png/600px-Richter_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/a/ab/RichterHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Richter_(SSBU)"
+    },
+    {
+        "name": "King K. Rool",
+        "id": 72,
+        "smashCharacter": "King K. Rool",
+        "series": "Donkey Kong",
+        "firstGame": "Super Smash Bros. Ultimate",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/b/b6/King_K._Rool_SSBU.png/600px-King_K._Rool_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/3/35/KingKRoolHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/King_K._Rool_(SSBU)"
+    },
+    {
+        "name": "Isabelle",
+        "id": 73,
+        "series": "Animal Crossing",
+        "firstGame": "Super Smash Bros. Ultimate",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/2/2b/Isabelle_SSBU.png/600px-Isabelle_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/2/2e/IsabelleHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Isabelle_(SSBU)"
+    },
+    {
+        "name": "Incineroar",
+        "id": 74,
+        "series": "Pokemon",
+        "firstGame": "Super Smash Bros. Ultimate",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/c/c4/Incineroar_SSBU.png/600px-Incineroar_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/e/e3/IncineroarHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Incineroar_(SSBU)"
+    },
+    {
+        "name": "Piranha Plant",
+        "id": 75,
+        "smashCharacter": "Piranha Plant",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. Ultimate",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/f/f0/Piranha_Plant_SSBU.png/600px-Piranha_Plant_SSBU.png",
+        "iconURL": "https://www.ssbwiki.com/images/c/cf/PiranhaPlantHeadSSBUWebsite.png",
+        "wikiURL": "https://www.ssbwiki.com/Piranha_Plant_(SSBU)"
+    }
+]

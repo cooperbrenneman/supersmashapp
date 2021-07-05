@@ -1,0 +1,826 @@
+[
+    {
+        "id": 1,
+        "name": "Battlefield",
+        "series": "Super Smash Bros.",
+        "firstGame": "Super Smash Bros. Ultimate",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/8/86/SSBU-Battlefield.png/800px-SSBU-Battlefield.png",
+        "wikiURL": "https://www.ssbwiki.com/Battlefield_(SSBU)"
+    },
+    {
+        "id": 2,
+        "name": "Big Battlefield",
+        "series": "Super Smash Bros.",
+        "firstGame": "Super Smash Bros. Ultimate",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/d/dd/SSBU-Big-Battlefield.png/800px-SSBU-Big-Battlefield.png",
+        "wikiURL": "https://www.ssbwiki.com/Big_Battlefield_(SSBU)"
+    },
+    {
+        "id": 3,
+        "name": "Final Destination",
+        "series": "Super Smash Bros.",
+        "firstGame": "Super Smash Bros. Ultimate",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/9/91/SSBU-Final_Destination.jpg/800px-SSBU-Final_Destination.jpg",
+        "wikiURL": "https://www.ssbwiki.com/Final_Destination_(SSBU)"
+    },
+    {
+        "id": 4,
+        "name": "New Donk City Hall",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. Ultimate",
+        "profilePictureURL": "https://www.ssbwiki.com/images/f/f5/SSBU-New_Donk_City_Hall.jpg",
+        "wikiURL": "https://www.ssbwiki.com/New_Donk_City_Hall"
+    },
+    {
+        "id": 5,
+        "name": "Great Plateau Tower",
+        "series": "The Legend of Zelda",
+        "firstGame": "Super Smash Bros. Ultimate",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/a/a8/SSBU-Great_Plateau_Tower.jpg/800px-SSBU-Great_Plateau_Tower.jpg",
+        "wikiURL": "https://www.ssbwiki.com/Great_Plateau_Tower"
+    },
+    {
+        "id": 6,
+        "name": "Moray Towers",
+        "series": "Splatoon",
+        "firstGame": "Super Smash Bros. Ultimate",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/9/90/SSBU-Moray_Towers.png/800px-SSBU-Moray_Towers.png",
+        "wikiURL": "https://www.ssbwiki.com/Moray_Towers"
+    },
+    {
+        "id": 7,
+        "name": "Dracula's Castle",
+        "series": "Castlevania",
+        "firstGame": "Super Smash Bros. Ultimate",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/c/c1/SSBU-Dracula%27s_Castle.png/800px-SSBU-Dracula%27s_Castle.png",
+        "wikiURL": "https://www.ssbwiki.com/Dracula%27s_Castle"
+    },
+    {
+        "id": 8,
+        "name": "Peach's Castle",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. 64",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/2/29/SSBU-Peach%27s_Castle.png/800px-SSBU-Peach%27s_Castle.png",
+        "wikiURL": "https://www.ssbwiki.com/Peach%27s_Castle"
+    },
+    {
+        "id": 9,
+        "name": "Mushroom Kingdom",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. 64",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/4/46/SSBU-Mushroom_Kingdom_%28SSB%29.png/800px-SSBU-Mushroom_Kingdom_%28SSB%29.png",
+        "wikiURL": "https://www.ssbwiki.com/Mushroom_Kingdom_(SSB)"
+    },
+    {
+        "id": 10,
+        "name": "Princess Peach's Castle",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/2/2a/SSBU-Princess_Peach%27s_Castle.png/800px-SSBU-Princess_Peach%27s_Castle.png",
+        "wikiURL": "https://www.ssbwiki.com/Princess_Peach%27s_Castle"
+    },
+    {
+        "id": 11,
+        "name": "Rainbow Cruise",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/8/84/SSBU-Rainbow_Cruise.png/800px-SSBU-Rainbow_Cruise.png",
+        "wikiURL": "https://www.ssbwiki.com/Rainbow_Cruise"
+    },
+    {
+        "id": 12,
+        "name": "Mushroom Kingdom II",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/9/92/SSBU-Mushroom_Kingdom_II.png/800px-SSBU-Mushroom_Kingdom_II.png",
+        "wikiURL": "https://www.ssbwiki.com/Mushroom_Kingdom_II"
+    },
+    {
+        "id": 13,
+        "name": "Delfino Plaza",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/5/5b/SSBU-Delfino_Plaza.jpg/800px-SSBU-Delfino_Plaza.jpg",
+        "wikiURL": "https://www.ssbwiki.com/Delfino_Plaza"
+    },
+    {
+        "id": 14,
+        "name": "Luigi's Mansion",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/3/39/SSBU-Luigi%27s_Mansion.png/800px-SSBU-Luigi%27s_Mansion.png",
+        "wikiURL": "https://www.ssbwiki.com/Luigi%27s_Mansion"
+    },
+    {
+        "id": 15,
+        "name": "Mushroomy Kingdom",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/c/c1/SSBU-Mushroomy_Kingdom.png/800px-SSBU-Mushroomy_Kingdom.png",
+        "wikiURL": "https://www.ssbwiki.com/Mushroomy_Kingdom"
+    },
+    {
+        "id": 16,
+        "name": "Figure-8 Circuit",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/6/6f/SSBU-Mario_Circuit_%28SSBB%29.png",
+        "wikiURL": "https://www.ssbwiki.com/Mario_Circuit_(SSBB)"
+    },
+    {
+        "id": 17,
+        "name": "Mario Bros.",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/8/82/SSBU-Mario_Bros.png/800px-SSBU-Mario_Bros.png",
+        "wikiURL": "https://www.ssbwiki.com/Mario_Bros."
+    },
+    {
+        "id": 18,
+        "name": "3D Land",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. for Nintendo 3DS",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/8/82/SSBU-3D_Land.png/800px-SSBU-3D_Land.png",
+        "wikiURL": "https://www.ssbwiki.com/3D_Land"
+    },
+    {
+        "id": 19,
+        "name": "Golden Plains",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. for Nintendo 3DS",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/a/a1/SSBU-Golden_Plains.png/800px-SSBU-Golden_Plains.png",
+        "wikiURL": "https://www.ssbwiki.com/Golden_Plains"
+    },
+    {
+        "id": 20,
+        "name": "Paper Mario",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. for Nintendo 3DS",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/9/98/SSBU-Paper_Mario.png/800px-SSBU-Paper_Mario.png",
+        "wikiURL": "https://www.ssbwiki.com/Paper_Mario"
+    },
+    {
+        "id": 21,
+        "name": "Mushroom Kingdom U",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/a/a1/SSBU-Mushroom_Kingdom_U.png/800px-SSBU-Mushroom_Kingdom_U.png",
+        "wikiURL": "https://www.ssbwiki.com/Mushroom_Kingdom_U"
+    },
+    {
+        "id": 22,
+        "name": "Mario Galaxy",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/c/c8/SSBU-Mario_Galaxy.jpg",
+        "wikiURL": "https://www.ssbwiki.com/Mario_Galaxy"
+    },
+    {
+        "id": 23,
+        "name": "Mario Circuit",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/d/de/SSBU-Mario_Circuit_%28SSB4%29.png/800px-SSBU-Mario_Circuit_%28SSB4%29.png",
+        "wikiURL": "https://www.ssbwiki.com/Mario_Circuit_(SSB4)"
+    },
+    {
+        "id": 24,
+        "name": "Super Mario Maker",
+        "series": "Mario",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/f/f1/SSBU-Super_Mario_Maker.png/800px-SSBU-Super_Mario_Maker.png",
+        "wikiURL": "https://www.ssbwiki.com/Super_Mario_Maker"
+    },
+    {
+        "id": 25,
+        "name": "Super Happy Tree",
+        "series": "Yoshi",
+        "firstGame": "Super Smash Bros. 64",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/8/80/SSBU-Yoshi%27s_Island_%28SSB%29.png/800px-SSBU-Yoshi%27s_Island_%28SSB%29.png",
+        "wikiURL": "https://www.ssbwiki.com/Yoshi%27s_Island_(SSB)"
+    },
+    {
+        "id": 26,
+        "name": "Yoshi's Island (Melee)",
+        "series": "Yoshi",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/9/9a/SSBU-Yoshi%27s_Island_%28SSBM%29.png/800px-SSBU-Yoshi%27s_Island_%28SSBM%29.png",
+        "wikiURL": "https://www.ssbwiki.com/Yoshi%27s_Island_(SSBM)"
+    },
+    {
+        "id": 27,
+        "name": "Yoshi's Story",
+        "series": "Yoshi",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/0/0c/SSBU-Yoshi%27s_Story.png/800px-SSBU-Yoshi%27s_Story.png",
+        "wikiURL": "https://www.ssbwiki.com/Yoshi%27s_Story"
+    },
+    {
+        "id": 28,
+        "name": "Yoshi’s Island",
+        "series": "Yoshi",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/7/7b/SSBU-Yoshi%27s_Island_%28SSBB%29.png/800px-SSBU-Yoshi%27s_Island_%28SSBB%29.png",
+        "wikiURL": "https://www.ssbwiki.com/Yoshi%27s_Island_(SSBB)"
+    },
+    {
+        "id": 29,
+        "name": "Kongo Jungle",
+        "series": "Donkey Kong",
+        "firstGame": "Super Smash Bros. 64",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/7/73/SSBU-Kongo_Jungle.png/800px-SSBU-Kongo_Jungle.png",
+        "wikiURL": "https://www.ssbwiki.com/Kongo_Jungle_(SSB)"
+    },
+    {
+        "id": 30,
+        "name": "Kongo Falls",
+        "series": "Donkey Kong",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/b/b4/SSBU-Kongo_Falls.jpg/800px-SSBU-Kongo_Falls.jpg",
+        "wikiURL": "https://www.ssbwiki.com/Kongo_Falls"
+    },
+    {
+        "id": 31,
+        "name": "Jungle Japes",
+        "series": "Donkey Kong",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/4/4c/SSBU-Jungle_Japes.png/800px-SSBU-Jungle_Japes.png",
+        "wikiURL": "https://www.ssbwiki.com/Jungle_Japes"
+    },
+    {
+        "id": 32,
+        "name": "75m",
+        "series": "Donkey Kong",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/3/31/SSBU-75m.png/800px-SSBU-75m.png",
+        "wikiURL": "https://www.ssbwiki.com/75m"
+    },
+    {
+        "id": 33,
+        "name": "Hyrule Castle",
+        "series": "The Legend of Zelda",
+        "firstGame": "Super Smash Bros. 64",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/b/bb/SSBU-Hyrule_Castle.png/800px-SSBU-Hyrule_Castle.png",
+        "wikiURL": "https://www.ssbwiki.com/Hyrule_Castle"
+    },
+    {
+        "id": 34,
+        "name": "Great Bay",
+        "series": "The Legend of Zelda",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/8/83/SSBU-Great_Bay.jpg/800px-SSBU-Great_Bay.jpg",
+        "wikiURL": "https://www.ssbwiki.com/Great_Bay"
+    },
+    {
+        "id": 35,
+        "name": "Temple",
+        "series": "The Legend of Zelda",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/3/3b/SSBU-Temple.png/800px-SSBU-Temple.png",
+        "wikiURL": "https://www.ssbwiki.com/Temple"
+    },
+    {
+        "id": 36,
+        "name": "Bridge of Eldin",
+        "series": "The Legend of Zelda",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/9/99/SSBU-Bridge_of_Eldin.png/800px-SSBU-Bridge_of_Eldin.png",
+        "wikiURL": "https://www.ssbwiki.com/Bridge_of_Eldin"
+    },
+    {
+        "id": 37,
+        "name": "Pirate Ship",
+        "series": "The Legend of Zelda",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/2/25/SSBU-Pirate_Ship.png/800px-SSBU-Pirate_Ship.png",
+        "wikiURL": "https://www.ssbwiki.com/Pirate_Ship"
+    },
+    {
+        "id": 38,
+        "name": "Gerudo Valley",
+        "series": "The Legend of Zelda",
+        "firstGame": "Super Smash Bros. for Nintendo 3DS",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/5/5d/SSBU-Gerudo_Valley.png/800px-SSBU-Gerudo_Valley.png",
+        "wikiURL": "https://www.ssbwiki.com/Gerudo_Valley"
+    },
+    {
+        "id": 39,
+        "name": "Spirit Train",
+        "series": "The Legend of Zelda",
+        "firstGame": "Super Smash Bros. for Nintendo 3DS",
+        "profilePictureURL": "https://www.ssbwiki.com/images/0/0a/SSBU-Spirit_Train.png",
+        "wikiURL": "https://www.ssbwiki.com/Spirit_Train"
+    },
+    {
+        "id": 40,
+        "name": "Skyloft",
+        "series": "The Legend of Zelda",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/7/7b/SSBU-Skyloft.png/800px-SSBU-Skyloft.png",
+        "wikiURL": "https://www.ssbwiki.com/Skyloft"
+    },
+    {
+        "id": 41,
+        "name": "Brinstar",
+        "series": "Metroid",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/d/d1/SSBU-Brinstar.png/800px-SSBU-Brinstar.png",
+        "wikiURL": "https://www.ssbwiki.com/Brinstar"
+    },
+    {
+        "id": 42,
+        "name": "Brinstar Depths",
+        "series": "Metroid",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/b/b3/SSBU-Brinstar_Depths.png/800px-SSBU-Brinstar_Depths.png",
+        "wikiURL": "https://www.ssbwiki.com/Brinstar_Depths"
+    },
+    {
+        "id": 43,
+        "name": "Norfair",
+        "series": "Metroid",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/6/6f/SSBU-Norfair.png/800px-SSBU-Norfair.png",
+        "wikiURL": "https://www.ssbwiki.com/Norfair"
+    },
+    {
+        "id": 44,
+        "name": "Frigate Orpheon",
+        "series": "Metroid",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/9/98/SSBU-Frigate_Orpheon.png",
+        "wikiURL": "https://www.ssbwiki.com/Frigate_Orpheon"
+    },
+    {
+        "id": 45,
+        "name": "Dream Land",
+        "series": "Kirby",
+        "firstGame": "Super Smash Bros. 64",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/6/68/SSBU-Dream_Land.png/800px-SSBU-Dream_Land.png",
+        "wikiURL": "https://www.ssbwiki.com/Dream_Land_(SSB)"
+    },
+    {
+        "id": 46,
+        "name": "Fountain of Dreams",
+        "series": "Kirby",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/c/c3/SSBU-Fountain_of_Dreams.png/800px-SSBU-Fountain_of_Dreams.png",
+        "wikiURL": "https://www.ssbwiki.com/Fountain_of_Dreams"
+    },
+    {
+        "id": 47,
+        "name": "Green Greens",
+        "series": "Kirby",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/5/5a/SSBU-Green_Greens.png/800px-SSBU-Green_Greens.png",
+        "wikiURL": "https://www.ssbwiki.com/Green_Greens"
+    },
+    {
+        "id": 48,
+        "name": "Halberd",
+        "series": "Kirby",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/2/22/SSBU-Halberd.png",
+        "wikiURL": "https://www.ssbwiki.com/Halberd"
+    },
+    {
+        "id": 49,
+        "name": "Dream Land GB",
+        "series": "Kirby",
+        "firstGame": "Super Smash Bros. for Nintendo 3DS",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/d/d7/SSBU-Dream_Land_%283DS%29.png/800px-SSBU-Dream_Land_%283DS%29.png",
+        "wikiURL": "https://www.ssbwiki.com/Dream_Land_(SSB4)"
+    },
+    {
+        "id": 50,
+        "name": "The Great Cave Offensive",
+        "series": "Kirby",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/7/7c/SSBU-The_Great_Cave_Offensive.png/800px-SSBU-The_Great_Cave_Offensive.png",
+        "wikiURL": "https://www.ssbwiki.com/The_Great_Cave_Offensive"
+    },
+    {
+        "id": 51,
+        "name": "Corneria",
+        "series": "Star Fox",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/0/01/SSBU-Corneria.png/800px-SSBU-Corneria.png",
+        "wikiURL": "https://www.ssbwiki.com/Corneria"
+    },
+    {
+        "id": 52,
+        "name": "Venom",
+        "series": "Star Fox",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/8/8d/SSBU-Venom.png",
+        "wikiURL": "https://www.ssbwiki.com/Venom"
+    },
+    {
+        "id": 53,
+        "name": "Lylat Cruise",
+        "series": "Star Fox",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/5/5f/SSBU-Lylat_Cruise.jpg/800px-SSBU-Lylat_Cruise.jpg",
+        "wikiURL": "https://www.ssbwiki.com/Lylat_Cruise"
+    },
+    {
+        "id": 54,
+        "name": "Saffron City",
+        "series": "Pokemon",
+        "firstGame": "Super Smash Bros. 64",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/5/5a/SSBU-Saffron_City.jpg/800px-SSBU-Saffron_City.jpg",
+        "wikiURL": "https://www.ssbwiki.com/Saffron_City"
+    },
+    {
+        "id": 55,
+        "name": "Pokemon Stadium",
+        "series": "Pokemon",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/7/73/SSBU-Pok%C3%A9mon_Stadium.png/800px-SSBU-Pok%C3%A9mon_Stadium.png",
+        "wikiURL": "https://www.ssbwiki.com/Pok%C3%A9mon_Stadium"
+    },
+    {
+        "id": 56,
+        "name": "Pokemon Stadium 2",
+        "series": "Pokemon",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/7/73/SSBU-Pok%C3%A9mon_Stadium_2.png/800px-SSBU-Pok%C3%A9mon_Stadium_2.png",
+        "wikiURL": "https://www.ssbwiki.com/Pok%C3%A9mon_Stadium_2"
+    },
+    {
+        "id": 57,
+        "name": "Spear Pillar",
+        "series": "Pokemon",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/2/26/SSBU-Spear_Pillar.png/800px-SSBU-Spear_Pillar.png",
+        "wikiURL": "https://www.ssbwiki.com/Spear_Pillar"
+    },
+    {
+        "id": 58,
+        "name": "Unova Pokemon League",
+        "series": "Pokemon",
+        "firstGame": "Super Smash Bros. for Nintendo 3DS",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/b/b2/SSBU-Unova_Pok%C3%A9mon_League.png/800px-SSBU-Unova_Pok%C3%A9mon_League.png",
+        "wikiURL": "https://www.ssbwiki.com/Unova_Pok%C3%A9mon_League"
+    },
+    {
+        "id": 59,
+        "name": "Prism Tower",
+        "series": "Pokemon",
+        "firstGame": "Super Smash Bros. for Nintendo 3DS",
+        "profilePictureURL": "https://www.ssbwiki.com/images/6/6e/SSBU-Prism_Tower.png",
+        "wikiURL": "https://www.ssbwiki.com/Prism_Tower"
+    },
+    {
+        "id": 60,
+        "name": "Kalos Pokemon League",
+        "series": "Pokemon",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/b/bf/SSBU-Kalos_Pok%C3%A9mon_League.png/800px-SSBU-Kalos_Pok%C3%A9mon_League.png",
+        "wikiURL": "https://www.ssbwiki.com/Kalos_Pok%C3%A9mon_League"
+    },
+    {
+        "id": 61,
+        "name": "Big Blue",
+        "series": "F-Zero",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/6/61/SSBU-Big_Blue.png/800px-SSBU-Big_Blue.png",
+        "wikiURL": "https://www.ssbwiki.com/Big_Blue"
+    },
+    {
+        "id": 62,
+        "name": "Port Town Aero Dive",
+        "series": "F-Zero",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/d/d4/SSBU-Port_Town_Aero_Dive.png/800px-SSBU-Port_Town_Aero_Dive.png",
+        "wikiURL": "https://www.ssbwiki.com/Port_Town_Aero_Dive"
+    },
+    {
+        "id": 63,
+        "name": "Mute City SNES",
+        "series": "F-Zero",
+        "firstGame": "Super Smash Bros. for Nintendo 3DS",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/0/0f/SSBU-Mute_City_%283DS%29.png/800px-SSBU-Mute_City_%283DS%29.png",
+        "wikiURL": "https://www.ssbwiki.com/Mute_City_(SSB4)"
+    },
+    {
+        "id": 64,
+        "name": "Onett",
+        "series": "EarthBound",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/6/68/SSBU-Onett.png/800px-SSBU-Onett.png",
+        "wikiURL": "https://www.ssbwiki.com/Onett"
+    },
+    {
+        "id": 65,
+        "name": "Fourside",
+        "series": "EarthBound",
+        "firstGame": "Super Smash Bros. Melee",
+        "profilePictureURL": "https://www.ssbwiki.com/images/3/39/SSBU-Fourside.jpg",
+        "wikiURL": "https://www.ssbwiki.com/Fourside"
+    },
+    {
+        "id": 66,
+        "name": "New Pork City",
+        "series": "EarthBound",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/4/4c/SSBU-New_Pork_City.png",
+        "wikiURL": "https://www.ssbwiki.com/New_Pork_City"
+    },
+    {
+        "id": 67,
+        "name": "Magicant",
+        "series": "EarthBound",
+        "firstGame": "Super Smash Bros. for Nintendo 3DS",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/b/b7/SSBU-Magicant.png/800px-SSBU-Magicant.png",
+        "wikiURL": "https://www.ssbwiki.com/Magicant"
+    },
+    {
+        "id": 68,
+        "name": "Summit",
+        "series": "Ice Climber",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/c/c9/SSBU-Summit.png/800px-SSBU-Summit.png",
+        "wikiURL": "https://www.ssbwiki.com/Summit"
+    },
+    {
+        "id": 69,
+        "name": "Castle Siege",
+        "series": "Fire Emblem",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/2/20/SSBU-Castle_Siege.png/800px-SSBU-Castle_Siege.png",
+        "wikiURL": "https://www.ssbwiki.com/Castle_Siege"
+    },
+    {
+        "id": 70,
+        "name": "Arena Ferox",
+        "series": "Fire Emblem",
+        "firstGame": "Super Smash Bros. for Nintendo 3DS",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/e/e8/SSBU-Arena_Ferox.png/800px-SSBU-Arena_Ferox.png",
+        "wikiURL": "https://www.ssbwiki.com/Arena_Ferox"
+    },
+    {
+        "id": 71,
+        "name": "Coliseum",
+        "series": "Fire Emblem",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/7/7a/SSBU-Coliseum.png",
+        "wikiURL": "https://www.ssbwiki.com/Coliseum"
+    },
+    {
+        "id": 72,
+        "name": "Flat Zone X",
+        "series": "Game & Watch",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/e/ec/SSBU-Flat_Zone_X.png/800px-SSBU-Flat_Zone_X.png",
+        "wikiURL": "https://www.ssbwiki.com/Flat_Zone_X"
+    },
+    {
+        "id": 73,
+        "name": "Skyworld",
+        "series": "Kid Icarus",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/7/7c/SSBU-Skyworld.png",
+        "wikiURL": "https://www.ssbwiki.com/Skyworld"
+    },
+    {
+        "id": 74,
+        "name": "Reset Bomb Forest",
+        "series": "Kid Icarus",
+        "firstGame": "Super Smash Bros. for Nintendo 3DS",
+        "profilePictureURL": "https://www.ssbwiki.com/images/c/ce/SSBU-Reset_Bomb_Forest.png",
+        "wikiURL": "https://www.ssbwiki.com/Reset_Bomb_Forest"
+    },
+    {
+        "id": 75,
+        "name": "Palutena's Temple",
+        "series": "Kid Icarus",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/6/69/SSBU-Palutena%27s_Temple.png/800px-SSBU-Palutena%27s_Temple.png",
+        "wikiURL": "https://www.ssbwiki.com/Palutena%27s_Temple"
+    },
+    {
+        "id": 76,
+        "name": "WarioWare, Inc.",
+        "series": "Wario",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/4/4d/SSBU-WarioWare%2C_Inc..png/800px-SSBU-WarioWare%2C_Inc..png",
+        "wikiURL": "https://www.ssbwiki.com/WarioWare,_Inc."
+    },
+    {
+        "id": 77,
+        "name": "Gamer",
+        "series": "Wario",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/3/32/SSBU-Gamer.png/800px-SSBU-Gamer.png",
+        "wikiURL": "https://www.ssbwiki.com/Gamer"
+    },
+    {
+        "id": 78,
+        "name": "Distant Planet",
+        "series": "Pikmin",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/7/7d/SSBU-Distant_Planet.png/800px-SSBU-Distant_Planet.png",
+        "wikiURL": "https://www.ssbwiki.com/Distant_Planet"
+    },
+    {
+        "id": 79,
+        "name": "Garden of Hope",
+        "series": "Pikmin",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/c/c9/SSBU-Garden_of_Hope.png/800px-SSBU-Garden_of_Hope.png",
+        "wikiURL": "https://www.ssbwiki.com/Garden_of_Hope"
+    },
+    {
+        "id": 80,
+        "name": "Smashville",
+        "series": "Animal Crossing",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/0/02/SSBU-Smashville.png/800px-SSBU-Smashville.png",
+        "wikiURL": "https://www.ssbwiki.com/Smashville"
+    },
+    {
+        "id": 81,
+        "name": "Tortimer Island",
+        "series": "Animal Crossing",
+        "firstGame": "Super Smash Bros. for Nintendo 3DS",
+        "profilePictureURL": "https://www.ssbwiki.com/images/f/fc/SSBU-Tortimer_Island.png",
+        "wikiURL": "https://www.ssbwiki.com/Tortimer_Island"
+    },
+    {
+        "id": 82,
+        "name": "Town and City",
+        "series": "Animal Crossing",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/8/81/Town_and_City_2.png/800px-Town_and_City_2.png",
+        "wikiURL": "https://www.ssbwiki.com/Town_and_City"
+    },
+    {
+        "id": 83,
+        "name": "Boxing Ring",
+        "series": "Punch-Out!!",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/a/ac/SSBU-Boxing_Ring.png/800px-SSBU-Boxing_Ring.png",
+        "wikiURL": "https://www.ssbwiki.com/Boxing_Ring"
+    },
+    {
+        "id": 84,
+        "name": "Wii Fit Studio",
+        "series": "Wii Fit",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/d/db/SSBU-Wii_Fit_Studio.png/800px-SSBU-Wii_Fit_Studio.png",
+        "wikiURL": "https://www.ssbwiki.com/Wii_Fit_Studio"
+    },
+    {
+        "id": 85,
+        "name": "Gaur Plain",
+        "series": "Xenoblade",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/5/5d/SSBU-Gaur_Plain.png/800px-SSBU-Gaur_Plain.png",
+        "wikiURL": "https://www.ssbwiki.com/Gaur_Plain"
+    },
+    {
+        "id": 86,
+        "name": "Duck Hunt",
+        "series": "Duck Hunt",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/e/ed/SSBU-Duck_Hunt.png/800px-SSBU-Duck_Hunt.png",
+        "wikiURL": "https://www.ssbwiki.com/Duck_Hunt_(stage)"
+    },
+    {
+        "id": 87,
+        "name": "Shadow Moses Island",
+        "series": "Metal Gear",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/2/24/SSBU-Shadow_Moses_Island_2.jpg/800px-SSBU-Shadow_Moses_Island_2.jpg",
+        "wikiURL": "https://www.ssbwiki.com/Shadow_Moses_Island"
+    },
+    {
+        "id": 88,
+        "name": "Green Hill Zone",
+        "series": "Sonic",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/0/04/SSBU-Green_Hill_Zone.png",
+        "wikiURL": "https://www.ssbwiki.com/Green_Hill_Zone"
+    },
+    {
+        "id": 89,
+        "name": "Windy Hill Zone",
+        "series": "Sonic",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/2/2c/SSBU-Windy_Hill_Zone.png",
+        "wikiURL": "https://www.ssbwiki.com/Windy_Hill_Zone"
+    },
+    {
+        "id": 90,
+        "name": "Wily Castle",
+        "series": "Mega Man",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/9/93/SSBU-Wily_Castle.png/800px-SSBU-Wily_Castle.png",
+        "wikiURL": "https://www.ssbwiki.com/Wily_Castle"
+    },
+    {
+        "id": 91,
+        "name": "Pac-Land",
+        "series": "Pac-Man",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/4/43/SSBU-Pac-Land.png/800px-SSBU-Pac-Land.png",
+        "wikiURL": "https://www.ssbwiki.com/Pac-Land"
+    },
+    {
+        "id": 92,
+        "name": "Suzaku Castle",
+        "series": "Street Fighter",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/d/d9/SSBU-Suzaku_Castle.png/800px-SSBU-Suzaku_Castle.png",
+        "wikiURL": "https://www.ssbwiki.com/Suzaku_Castle"
+    },
+    {
+        "id": 93,
+        "name": "Midgar",
+        "series": "Final Fantasy",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/1/17/SSBU-Midgar.jpg",
+        "wikiURL": "https://www.ssbwiki.com/Midgar"
+    },
+    {
+        "id": 94,
+        "name": "Umbra Clock Tower",
+        "series": "Bayonetta",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/0/0d/SSBU-Umbra_Clock_Tower.png/800px-SSBU-Umbra_Clock_Tower.png",
+        "wikiURL": "https://www.ssbwiki.com/Umbra_Clock_Tower"
+    },
+    {
+        "id": 95,
+        "name": "Hanenbow",
+        "series": "Electroplankton",
+        "firstGame": "Super Smash Bros. Brawl",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/b/bd/SSBU-Hanenbow.png/800px-SSBU-Hanenbow.png",
+        "wikiURL": "https://www.ssbwiki.com/Hanenbow"
+    },
+    {
+        "id": 96,
+        "name": "PictoChat 2",
+        "series": "Nintendo DS",
+        "firstGame": "Super Smash Bros. for Nintendo 3DS",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/0/07/SSBU-PictoChat_2.png/800px-SSBU-PictoChat_2.png",
+        "wikiURL": "https://www.ssbwiki.com/PictoChat_2"
+    },
+    {
+        "id": 97,
+        "name": "Balloon Fight",
+        "series": "Balloon Fight",
+        "firstGame": "Super Smash Bros. for Nintendo 3DS",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/e/e1/SSBU-Balloon_Fight.png/800px-SSBU-Balloon_Fight.png",
+        "wikiURL": "https://www.ssbwiki.com/Balloon_Fight"
+    },
+    {
+        "id": 98,
+        "name": "Living Room",
+        "series": "Nintendogs",
+        "firstGame": "Super Smash Bros. for Nintendo 3DS",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/5/56/SSBU-Living_Room.png/800px-SSBU-Living_Room.png",
+        "wikiURL": "https://www.ssbwiki.com/Living_Room"
+    },
+    {
+        "id": 99,
+        "name": "Find Mii",
+        "series": "Find Mii",
+        "firstGame": "Super Smash Bros. for Nintendo 3DS",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/2/2b/SSBU-Find_Mii.png/800px-SSBU-Find_Mii.png",
+        "wikiURL": "https://www.ssbwiki.com/Find_Mii"
+    },
+    {
+        "id": 100,
+        "name": "Tomodachi Life",
+        "series": "Tomodachi",
+        "firstGame": "Super Smash Bros. for Nintendo 3DS",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/9/96/SSBU-Tomodachi_Life.png/800px-SSBU-Tomodachi_Life.png",
+        "wikiURL": "https://www.ssbwiki.com/Tomodachi_Life"
+    },
+    {
+        "id": 101,
+        "name": "Wrecking Crew",
+        "series": "Wrecking Crew",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/5/52/SSBU-Wrecking_Crew.png",
+        "wikiURL": "https://www.ssbwiki.com/Wrecking_Crew"
+    },
+    {
+        "id": 102,
+        "name": "Pilotwings",
+        "series": "Pilotwings",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/a/a3/SSBU-Pilotwings.png/800px-SSBU-Pilotwings.png",
+        "wikiURL": "https://www.ssbwiki.com/Pilotwings"
+    },
+    {
+        "id": 103,
+        "name": "Wuhu Island",
+        "series": "Wii Sports",
+        "firstGame": "Super Smash Bros. for Wii U",
+        "profilePictureURL": "https://www.ssbwiki.com/images/thumb/f/fc/SSBU-Wuhu_Island.png/800px-SSBU-Wuhu_Island.png",
+        "wikiURL": "https://www.ssbwiki.com/Wuhu_Island"
+    }
+]
