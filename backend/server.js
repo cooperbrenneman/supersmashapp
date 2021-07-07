@@ -18,12 +18,14 @@ app.use(express.json());
 const url = process.env.DATABASE_URL;
 const cert = process.env.CA_CERT;
 
+fs.writeFileSync("./ca-certificate.crt", cert);
+
 mongoose.connect(url, {
     useCreateIndex: true,
     useNewUrlParser: true,
     useUnifiedTopology: true,
     tls: true,
-    tlsCAFile: cert
+    tlsCAFile: "./ca-certificate.crt"
 }).catch(err => {
     console.log(err);
 });
