@@ -8,6 +8,9 @@ export default class EditMatch extends Component {
     constructor(props) {
         super(props);
 
+        this.alertSuccessRef = React.createRef();
+        this.alertFailRef = React.createRef();
+
         this.onChangeUser = this.onChangeUser.bind(this);
         this.onChangeStockNumber = this.onChangeStockNumber.bind(this);
         this.onChangeTime = this.onChangeTime.bind(this);
@@ -46,7 +49,7 @@ export default class EditMatch extends Component {
     }
 
     componentDidMount() {
-        axios.get('http://' + process.env.REACT_APP_APIHOST + ':' + process.env.REACT_APP_APIPORT + '/api/v1/matches/' + this.props.match.params.id)
+        axios.get(process.env.REACT_APP_API + 'matches/' + this.props.match.params.id)
             .then(response => {
                 this.setState({
                     user: response.data.user,
@@ -69,7 +72,7 @@ export default class EditMatch extends Component {
                 console.log(error);
             })
 
-        axios.get('http://' + process.env.REACT_APP_APIHOST + ':' + process.env.REACT_APP_APIPORT + '/api/v1/users/')
+        axios.get(process.env.REACT_APP_API + 'users/')
             .then(response => {
                 if (response.data.length > 0) {
                     this.setState({
@@ -81,7 +84,7 @@ export default class EditMatch extends Component {
                 console.log(error);
             });
 
-        axios.get('http://' + process.env.REACT_APP_APIHOST + ':' + process.env.REACT_APP_APIPORT + '/api/v1/stages/')
+        axios.get(process.env.REACT_APP_API + 'stages/')
             .then(response => {
                 if (response.data.length > 0) {
                     this.setState({
@@ -93,7 +96,7 @@ export default class EditMatch extends Component {
                 console.log(error);
             });
 
-        axios.get('http://' + process.env.REACT_APP_APIHOST + ':' + process.env.REACT_APP_APIPORT + '/api/v1/fighters/')
+        axios.get(process.env.REACT_APP_API + 'fighters/')
             .then(response => {
                 if (response.data.length > 0) {
                     this.setState({
@@ -170,6 +173,9 @@ export default class EditMatch extends Component {
     onSubmit(e) {
         e.preventDefault();
 
+        this.alertSuccessRef.current.hidden = true;
+        this.alertFailRef.current.hidden = true;
+
         const match = {
             user: this.state.user,
             battleType: this.state.battleType,
@@ -188,10 +194,19 @@ export default class EditMatch extends Component {
         };
         console.log(match);
 
-        axios.put('http://' + process.env.REACT_APP_APIHOST + ':' + process.env.REACT_APP_APIPORT + '/api/v1/matches/' + this.props.match.params.id, match)
-            .then(res => console.log(res.data));
-
-        // window.location = '/';
+        axios.put(process.env.REACT_APP_API + 'matches/' + this.props.match.params.id, match, {
+                validateStatus: function (status) {
+                    return status >= 200 && status < 300;
+                }
+            })
+            .then((res) => {
+                console.log(res.data);
+                this.alertSuccessRef.current.hidden = false;
+            })
+            .catch((res) => {
+                console.log(res.data);
+                this.alertFailRef.current.hidden = false;
+            });
     }
 
     render() {
@@ -343,6 +358,17 @@ export default class EditMatch extends Component {
                         <input type="submit" value="Edit Match" className="btn btn-primary" />
                     </div>
                 </form>
+                <br></br>
+                <div id="SuccessAlert" hidden={true} ref={this.alertSuccessRef}>
+                    <div className="alert alert-success" role="alert">
+                        The match was successfully edited!
+                    </div>
+                </div>
+                <div id="FailureAlert" hidden={true} ref={this.alertFailRef}>
+                    <div className="alert alert-danger" role="alert">
+                        There was an error editing the match.
+                    </div>
+                </div>
             </div>
         )
     }

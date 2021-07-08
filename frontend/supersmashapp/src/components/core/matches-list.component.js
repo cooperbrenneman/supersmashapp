@@ -37,7 +37,7 @@ export default class MatchList extends Component {
     }
 
     componentDidMount() {
-        axios.get('http://' + process.env.REACT_APP_APIHOST + ':' + process.env.REACT_APP_APIPORT + '/api/v1/matches/')
+        axios.get(process.env.REACT_APP_API + 'matches/')
             .then(response => {
                 this.setState({ matches: response.data });
             })
@@ -47,7 +47,7 @@ export default class MatchList extends Component {
     }
 
     deleteMatch(id) {
-        axios.delete('http://' + process.env.REACT_APP_APIHOST + ':' + process.env.REACT_APP_APIPORT + '/api/v1/matches/' + id)
+        axios.delete(process.env.REACT_APP_API + 'matches/' + id)
             .then(res => console.log(res.data));
         this.setState({
             matches: this.state.matches.filter(el => el._id !== id)

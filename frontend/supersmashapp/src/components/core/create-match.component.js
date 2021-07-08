@@ -5,8 +5,12 @@ import "react-datepicker/dist/react-datepicker.css";
 
 export default class CreateMatch extends Component {
 
+
     constructor(props) {
         super(props);
+
+        this.alertSuccessRef = React.createRef();
+        this.alertFailRef = React.createRef();
 
         this.onChangeUser = this.onChangeUser.bind(this);
         this.onChangeStockNumber = this.onChangeStockNumber.bind(this);
@@ -45,7 +49,7 @@ export default class CreateMatch extends Component {
     }
 
     componentDidMount() {
-        axios.get('http://' + process.env.REACT_APP_APIHOST + ':' + process.env.REACT_APP_APIPORT + '/api/v1/users/')
+        axios.get(process.env.REACT_APP_API + 'users/')
             .then(response => {
                 if (response.data.length > 0) {
                     this.setState({
@@ -58,7 +62,7 @@ export default class CreateMatch extends Component {
                 console.log(error);
             });
 
-        axios.get('http://' + process.env.REACT_APP_APIHOST + ':' + process.env.REACT_APP_APIPORT + '/api/v1/stages/')
+        axios.get(process.env.REACT_APP_API + 'stages/')
             .then(response => {
                 if (response.data.length > 0) {
                     this.setState({
@@ -71,7 +75,7 @@ export default class CreateMatch extends Component {
                 console.log(error);
             });
 
-        axios.get('http://' + process.env.REACT_APP_APIHOST + ':' + process.env.REACT_APP_APIPORT + '/api/v1/fighters/')
+        axios.get(process.env.REACT_APP_API + 'fighters/')
             .then(response => {
                 if (response.data.length > 0) {
                     this.setState({
@@ -150,6 +154,9 @@ export default class CreateMatch extends Component {
     onSubmit(e) {
         e.preventDefault();
 
+        this.alertSuccessRef.current.hidden = true;
+        this.alertFailRef.current.hidden = true;
+
         const match = {
             user: this.state.user,
             battleType: this.state.battleType,
@@ -168,9 +175,19 @@ export default class CreateMatch extends Component {
         };
         console.log(match);
 
-        axios.post('http://' + process.env.REACT_APP_APIHOST + ':' + process.env.REACT_APP_APIPORT + '/api/v1/matches', match)
-            .then(res => console.log(res.data));
-        // window.location = '/';
+        axios.post(process.env.REACT_APP_API + 'matches', match, { 
+                validateStatus: function (status) {
+                    return status >= 200 && status < 300;
+                }
+            })
+            .then((res) => {
+                console.log(res.data);
+                this.alertSuccessRef.current.hidden = false;
+            })
+            .catch((res) => {
+                console.log(res.data);
+                this.alertFailRef.current.hidden = false;
+            });
     }
 
     render() {
@@ -322,6 +339,17 @@ export default class CreateMatch extends Component {
                         <input type="submit" value="Create Match" className="btn btn-primary" />
                     </div>
                 </form>
+                <br></br>
+                <div id="SuccessAlert" hidden={true} ref={this.alertSuccessRef}>
+                    <div className="alert alert-success" role="alert">
+                        The match was successfully created!
+                    </div>
+                </div>
+                <div id="FailureAlert" hidden={true} ref={this.alertFailRef}>
+                    <div className="alert alert-danger" role="alert">
+                        There was an error creating the match.
+                    </div>
+                </div>
             </div>
         )
     }

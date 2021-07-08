@@ -1,0 +1,29 @@
+databases:
+- cluster_name: mongodb-smashapp
+  engine: MONGODB
+  name: mongodb-smashapp
+  production: true
+  version: "4"
+name: supersmashapp
+region: nyc
+services:
+- environment_slug: node-js
+  envs:
+  - key: CA_CERT
+    scope: RUN_AND_BUILD_TIME
+    value: ${mongodb-smashapp.CA_CERT}
+  - key: DATABASE_URL
+    scope: RUN_TIME
+    value: ${mongodb-smashapp.DATABASE_URL}
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: cooperbrenneman/supersmashapp
+  http_port: 8080
+  instance_count: 1
+  instance_size_slug: basic-xs
+  name: supersmashapp
+  routes:
+  - path: /
+  run_command: node server.js
+  source_dir: /backend

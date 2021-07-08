@@ -40,7 +40,7 @@ router.route('/:id').get((req, res) => {
 
 router.route('/:id').delete((req, res) => {
     Match.findByIdAndDelete(req.params.id)
-        .then(() => res.json('Match deleted.'))
+        .then(() => res.json('Match deleted!'))
         .catch(err => res.status(400).json('Error: ' + err));
 });
 
@@ -62,11 +62,13 @@ router.route('/:id').put((req, res) => {
         opponentKOs: req.body.opponentKOs,
     };
 
-    Match.findOneAndUpdate({ _id: req.params.id },
+    Match.findByIdAndUpdate(req.params.id,
         match,
         {
-            new: true
+            new: true,
+            useFindAndModify: false
         })
+        .then(match => res.json(match))
         .catch(err => res.status(400).json('Error: ' + err));
 });
 
