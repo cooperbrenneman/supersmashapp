@@ -1,0 +1,14 @@
+name: supersmash-react
+region: nyc
+static_sites:
+- build_command: npm run build
+  environment_slug: node-js
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: cooperbrenneman/supersmashapp
+  name: supersmash-react
+  routes:
+  - path: /
+  source_dir: /frontend/supersmashapp
+  error_document: index.html
